@@ -1,1 +1,7 @@
-https://hmz865.github.io/portfolio/
+About This Repository
+Repository Name: CV Tasks
+Maintainer: Abdullah
+Class: BIT21257
+
+This repository contains tasks and assignments related to Computer Vision (CV).
+
